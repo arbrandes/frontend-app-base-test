@@ -18,6 +18,4 @@ temp/babel-plugin-react-intl
 /temp
 /.vscode
 
-site.config.tsx
-site.config.*.tsx
-*.tgz
+/*.tgz
